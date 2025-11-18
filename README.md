@@ -9,7 +9,16 @@ I am a **Front-End Web Developer** with 2 years of experience in building user-f
 - **Libraries & Tools**: Tailwind CSS, Bootstrap, Material UI, Styled Components, Git & GitHub
 - **Other Skills**: Responsive Design, UI/UX Design, API Integration, Version Control
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects 
+
+
+### **PHOTA - Pakistan Human Organ Transplant Authority**
+Developed a web application using **React.js** for managing hospital accreditation, organ transplant assessments, and hospital records.  
+- Implemented **JWT Authentication** for secure access to sensitive data.  
+- Integrated with **.NET Core** backend services for data handling.  
+- Ensured regulatory compliance and collaborated with government officials.  
+- Used **Swagger** for API documentation and participated in **Agile** development using **Jira** and **GitHub**.
+
 
 ### [Truck Dispatching Website](https://github.com/maazwajid99/trucking-dispatching-website)
 A responsive website developed for truck dispatching, focusing on creative widgets and animations to improve the user experience.  
