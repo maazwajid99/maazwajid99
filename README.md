@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Maaz Wajid 👋
 
-I am a **Front-End Web Developer** with 1 year of experience in building user-friendly and responsive web applications. I have a strong focus on **React.js**, **Next.js**, **HTML**, **CSS**, and **JavaScript**. I enjoy working on dynamic web projects and enhancing user experience with creative design and interactivity.
+I am a **Front-End Web Developer** with 2 years of experience in building user-friendly and responsive web applications. I have a strong focus on **React.js**, **Next.js**, **HTML**, **CSS**, and **JavaScript**. I enjoy working on dynamic web projects and enhancing user experience with creative design and interactivity.
 
 ## 🚀 Skills & Technologies
 
