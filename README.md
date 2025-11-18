@@ -1,38 +1,60 @@
-# Hi there, I'm Maaz Wajid 👋
+# Hi there, I'm Muhammad Maaz Wajid 👋
 
-I'm a passionate developer with experience in **Flutter**, **Python**, **Django**, and more. I enjoy building high-performance, scalable applications for both mobile and desktop platforms. I love integrating APIs and solving real-world problems with technology. 🚀
+I am a **Front-End Web Developer** with 1 year of experience in building user-friendly and responsive web applications. I have a strong focus on **React.js**, **Next.js**, **HTML**, **CSS**, and **JavaScript**. I enjoy working on dynamic web projects and enhancing user experience with creative design and interactivity.
 
 ## 🚀 Skills & Technologies
 
-- **Languages**: Python, Dart, C++
-- **Web Frameworks**: Django
-- **Mobile Development**: Flutter
-- **Databases**: SQLite
-- **Tools**: Git, API Integration, REST APIs
-- **Others**: HTML, CSS, Bootstrap, Problem Solving, Teamwork, Communication
+- **Languages**: HTML, CSS, JavaScript
+- **Web Frameworks**: React.js, Next.js
+- **Libraries & Tools**: Tailwind CSS, Bootstrap, Material UI, Styled Components, Git & GitHub
+- **Other Skills**: Responsive Design, UI/UX Design, API Integration, Version Control
 
 ## 🌟 Featured Projects
 
-### [Grace POS](https://github.com/maazwajid99/grace-pos)
-A POS system built with **Django** backend and **Flutter** frontend for cross-platform usage.  
-**Tech Used**: Django, Flutter, SQLite, API Integration
+### [Truck Dispatching Website](https://github.com/maazwajid99/trucking-dispatching-website)
+A responsive website developed for truck dispatching, focusing on creative widgets and animations to improve the user experience.  
+**Tech Used**: Next.js, Tailwind CSS, React.js, Styled Components
 
-### [Gmail App](https://github.com/maazwajid99/gmail-app)
-A Gmail client app integrated with Gmail API to manage emails efficiently.  
-**Tech Used**: Python, Django, Gmail API
+### [Caps CRM Dashboard](https://github.com/maazwajid99/caps-crm-dashboard)
+A dynamic CRM dashboard built using **React.js** and **Material-UI**, designed to provide an intuitive interface for managing customer data.  
+**Tech Used**: React.js, Material UI, JavaScript
 
-### [Banking System](https://github.com/maazwajid99/banking-system)
-A console-based banking system developed in **C++** to simulate real-world banking operations.  
-**Tech Used**: C++
+### [Greeny Vegetable Website](https://github.com/maazwajid99/greeny-website)
+Developed a responsive website for a vegetable company, enhancing user experience with creative widgets and animations.  
+**Tech Used**: HTML, CSS, JavaScript, React.js
 
-### [Hospital Registration App](https://github.com/maazwajid99/hospital-registration-app)
-A frontend **Flutter** application for managing and editing photos with an intuitive UI.  
-**Tech Used**: Flutter, Dart
+### [Portfolio Website](https://github.com/maazwajid99/portfolio)
+A personal portfolio website showcasing my skills, projects, and experience.  
+**Tech Used**: React.js, Tailwind CSS
+
+## 📚 Education
+
+**BS in Computer Science (BS-CS)**  
+Virtual University of Pakistan (2021 - Present)
+
+## 💼 Experience
+
+### **Frontend Developer**  
+**Tecjaunt Software Company** (August 2024 - Present)  
+- Worked on various client projects, focusing on building dynamic and responsive websites.
+- Gained hands-on experience with **Next.js**, **React.js**, and **Tailwind CSS**.
+- Collaborated with teams to deliver high-quality, user-centered designs and solutions.
+
+### **Frontend Developer**  
+**AAA Digital** (December 2023 - April 2024)  
+- Worked on the **Greeny Vegetable** website and **Truck Dispatching Website**.
+- Focused on creating responsive designs and enhancing website interactivity using **React.js** and **Tailwind CSS**.
 
 ## 📫 Contact Me
 
-- 📧 **Email**: [jamilahmed20201970@gmail.com](mailto:jamilahmed20201970@gmail.com)
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/maazwajid99](https://www.linkedin.com/in/maazwajid99)
+- 📧 **Email**: [mmaaz.it@gmail.com](mailto:mmaaz.it@gmail.com)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/imaazwajid/](https://www.linkedin.com/in/imaazwajid/)
+- 🔗 **GitHub**: [https://github.com/maazwajid99](https://github.com/maazwajid99)
+- 🌐 **Portfolio**: [https://mmaazwajid.free.nf/](https://mmaazwajid.free.nf/)
+
+## 🧑‍💻 Personal Interests
+
+- **Hobbies**: Traveling, Watching Movies/Seasons, Playing Cricket
 
 ---
 
