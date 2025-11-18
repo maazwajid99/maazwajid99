@@ -20,7 +20,7 @@ Developed a web application using **React.js** for managing hospital accreditati
 - Used **Swagger** for API documentation and participated in **Agile** development using **Jira** and **GitHub**.
 
 
-### [Truck Dispatching Website](https://github.com/maazwajid99/trucking-dispatching-website)
+### **Truck Dispatching Website**
 A responsive website developed for truck dispatching, focusing on creative widgets and animations to improve the user experience.  
 **Tech Used**: Next.js, Tailwind CSS, React.js, Styled Components
 
