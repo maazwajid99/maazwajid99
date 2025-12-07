@@ -67,7 +67,7 @@ Developed a web application using **React.js** for managing hospital accreditati
 - 📧 **Email**: [mmaaz.it@gmail.com](mailto:mmaaz.it@gmail.com)
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/imaazwajid/](https://www.linkedin.com/in/imaazwajid/)
 - 🔗 **GitHub**: [https://github.com/maazwajid99](https://github.com/maazwajid99)
-- 🌐 **Portfolio**: [https://mmaazwajid.free.nf/](https://mmaazwajid.free.nf/)
+- 🌐 **Portfolio**: [https://muhammad-maaz-resume.vercel.app/](https://muhammad-maaz-resume.vercel.app/)
 
 ## 🧑‍💻 Personal Interests
 
